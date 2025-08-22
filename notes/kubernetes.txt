@@ -1,0 +1,2 @@
+Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. 
+It works well with Docker and supports service discovery, load balancing, and rolling updates.

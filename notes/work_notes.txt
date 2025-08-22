@@ -1,0 +1,5 @@
+Tasks for next sprint:
+    - Finalize API Gateway migration to Gravitee
+    - Implement Kafka DLQ handling
+    - Review microservices scaling strategy
+    - Prepare staff engineer interview case study

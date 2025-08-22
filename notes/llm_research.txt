@@ -1,0 +1,2 @@
+Large Language Models (LLMs) such as GPT-4 and LLaMA are being used for Retrieval-Augmented Generation (RAG), 
+chatbots, and AI agents. Key challenges include hallucinations, latency, and cost management.
